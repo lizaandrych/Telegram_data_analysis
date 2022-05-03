@@ -1,9 +1,11 @@
  # Telegram_data_analysis
-It is a project about analysing data get from telegram chats. You can see how many data you can get from only messages from social media.
+It is a project about analysing data got from telegram chats. You can see how many data you can get from only messages from social media.
 I used pandas to analyze data because it is comfortable in use and you can see clearly how data looks like.
+
 All plots and statistics are made with pandas, matplotlib, seaborn and plotly.
 
 I have found interesting statistics and would like to continue exploring this data more deeply.
+## Here you can found a lot of examples of chat analitics and their visualization.
 ## Features I would like to implement:
 * Some more gender characteristics:
    * how actitvy of people of diffent h=gender depends on daytime
