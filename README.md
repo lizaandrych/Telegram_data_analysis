@@ -1,6 +1,6 @@
  # Telegram_data_analysis
 It is a project about analysing data got from telegram chats. You can see how many data you can get from only messages from social media.
-I used pandas to analyze data because it is comfortable in use and you can see clearly how data looks like.
+I used pandas for analisis because it is comfortable in use and you can see clearly how data looks like.
 
 All plots and statistics are made with pandas, matplotlib, seaborn and plotly.
 
