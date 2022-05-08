@@ -3,7 +3,7 @@ It is a project about analysing data got from telegram chats. You can see how ma
 I used pandas for analisis because it is comfortable in use and you can see clearly how data looks like.
 
 ### Here you can found a lot of examples of chat analitics and their visualization.
-### Also here you can find my own dataset of endings in Ukrainian to detect messages' author's gender.
+### Also here you can find my own dataset of endings in Ukrainian and Russian to detect messages' author's gender.
 
 Analisis was made in python.
 All plots and statistics are made with pandas, matplotlib, seaborn and plotly.
@@ -11,7 +11,7 @@ I have found interesting statistics and would like to continue exploring this da
 
 ## New statistics I would like to implement:
 * Some more gender characteristics:
-   * how actitvy of people of diffent h=gender depends on daytime
+   * how actitvy of people of diffent gender depends on daytime
    * if activity of men and women was changing during two years of studying:
      - if women are more active during time of getting acquainted or not
      - same for men
